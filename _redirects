@@ -1,2 +1,1 @@
-# Redirect default Netlify subdomain to primary domain
-https://betterdocs.netlify.com/* https://betterdocs.us/:splat 301!
+# Redirect default Netlify subdomain to primary domain.
