@@ -2,7 +2,7 @@
 # Site values
 
 title: BetterDocs
-url: "https://betterdocs.us"
+url: "https://betterdocs.netlify.com"
 baseurl:
 #google_analytics_key: UA-65593962-3
 #snipcart_key: ""
